@@ -1,0 +1,30 @@
+*{
+  background-color: chartreuse;
+  font-size: large;
+  color: darkblue;
+}
+h1{
+  font-size: x-large;
+}
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: blue;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
